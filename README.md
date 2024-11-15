@@ -9,6 +9,10 @@ python버전은 3.10.15 버전을 사용 하였습니다.(현재 colab와 비슷
 가상환경 생성시
 `conda create -n 이름 python=3.10`을 사용하여 버전을 맞춰 주시길 바랍니다.
 
+구버전 python 다운로드 링크
+https://python.kr.uptodown.com/windows/versions
+
+
 패키지는 파일실행 후 제일 위에 패키지 설치를 실행시키면 됩니다.
 
 과제끝
